@@ -1,6 +1,8 @@
 # Collection of material to learn scientific programming and data analysis in Python
 
-Most of the material listed below is largely overlapping. Have a quick look at them and then pick what you think works best for you.
+Most of the material listed below is largely overlapping with each having a diffierent focus. Have a quick look at them and then pick what you think works best for you.
+
+**Recommended course**: [Earth and Environmental Data Science](https://earth-env-data-science.github.io)
 
 ## Language basics
 -  [docs.python.org](https://docs.python.org/3/tutorial/)
